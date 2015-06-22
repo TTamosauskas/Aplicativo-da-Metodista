@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+
+  <channel>
+
+    <title>Próximos Eventos</title>
+    <link>http://portal.metodista.br/proximos-eventos</link>
+    <description></description>
+    
+
+      <item>
+      <title>15º Exposição de Maquetes de Programas de TV</title>
+      <link>http://portal.metodista.br/radio-tv-e-internet/agenda/15o-exposicao-de-maquetes-de-programas-de-tv/app_view</link>
+      <description></description>
+      <pubDate>2015-05-25T17:30:00Z</pubDate>
+      <linkImage>http://portal.metodista.br/radio-tv-e-internet/agenda/15o-exposicao-de-maquetes-de-programas-de-tv/image_app2</linkImage>
+      </item>
+      <item>
+      <title>1ª Feira de Negócios – Top de Marketing </title>
+      <link>http://portal.metodista.br/administracao/agenda/1a-feira-de-negocios-2013-top-de-marketing-da-faculdade-de-administracao-e-economia/app_view</link>
+      <description></description>
+      <pubDate>2015-05-29T19:27:14Z</pubDate>
+      <linkImage>http://portal.metodista.br/administracao/agenda/1a-feira-de-negocios-2013-top-de-marketing-da-faculdade-de-administracao-e-economia/image_app2</linkImage>
+      </item>
+      <item>
+      <title>1ª Feira de Negócios - Top de Marketing</title>
+      <link>http://portal.metodista.br/administracao/agenda/1a-feira-de-negocios-top-de-marketing/app_view</link>
+      <description></description>
+      <pubDate>2015-05-29T19:27:26Z</pubDate>
+      <linkImage>http://portal.metodista.br/administracao/agenda/1a-feira-de-negocios-top-de-marketing/image_app2</linkImage>
+      </item>
+      <item>
+      <title>7º Sumô de Robôs da Universidade Metodista</title>
+      <link>http://portal.metodista.br/automacao-industrial/agenda/7o-sumo-de-robos-da-universidade-metodista/app_view</link>
+      <description></description>
+      <pubDate>2015-05-25T17:03:42Z</pubDate>
+      <linkImage>http://portal.metodista.br/automacao-industrial/agenda/7o-sumo-de-robos-da-universidade-metodista/image_app2</linkImage>
+      </item>
+      <item>
+      <title>Exposição - Aquilo que vemos: ilusão, ficção ou simulacro</title>
+      <link>http://portal.metodista.br/nac/agenda/e-aquilo-que-vemos-ilusao-ficcao-ou-simulacro/app_view</link>
+      <description></description>
+      <pubDate>2015-06-03T11:20:00Z</pubDate>
+      <linkImage>http://portal.metodista.br/nac/agenda/e-aquilo-que-vemos-ilusao-ficcao-ou-simulacro/image_app2</linkImage>
+      </item>
+      <item>
+      <title>Concerto Didático com a Pianista Andréa Bretherick</title>
+      <link>http://portal.metodista.br/nac/agenda/concerto-didatico-com-a-pianista-andrea-bretherick/app_view</link>
+      <description></description>
+      <pubDate>2015-06-08T18:03:00Z</pubDate>
+      <linkImage>http://portal.metodista.br/nac/agenda/concerto-didatico-com-a-pianista-andrea-bretherick/image_app2</linkImage>
+      </item>
+      <item>
+      <title>II Seminário Integrado: Pentecostais, Teologia e Ciências da Religião</title>
+      <link>http://portal.metodista.br/posreligiao/agenda/ii-seminario-integrado-pentecostais-teologia-e-ciencias-da-religiao/app_view</link>
+      <description></description>
+      <pubDate>2015-06-08T17:51:09Z</pubDate>
+      <linkImage>http://portal.metodista.br/posreligiao/agenda/ii-seminario-integrado-pentecostais-teologia-e-ciencias-da-religiao/image_app2</linkImage>
+      </item>
+      <item>
+      <title>Décima edição da Eclesiocom aborda “Comunicação, Religião e Cidades”</title>
+      <link>http://portal.metodista.br/agenda/decima-edicao-da-eclesiocom-aborda-201ccomunicacao-religiao-e-cidades201d/app_view</link>
+      <description>Tema: Comunicação, Religião e Cidades</description>
+      <pubDate>2015-04-24T19:18:41Z</pubDate>
+      <linkImage>http://portal.metodista.br/agenda/decima-edicao-da-eclesiocom-aborda-201ccomunicacao-religiao-e-cidades201d/image_app2</linkImage>
+      </item>
+
+
+  </channel>
+</rss>
